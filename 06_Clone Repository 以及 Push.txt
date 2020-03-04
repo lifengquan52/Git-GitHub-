@@ -1,0 +1,23 @@
+Clone Repository
+[git init]
+初始化初始化一些东西
+
+[git status]
+显示关于仓库的一些信息
+
+[git commit ...参数] [-a,-m]
+-a 表示的是all，所有的改变
+-m 表示的message，所有的消息
+
+[git --help]
+能够查看所有的相关帮助
+
+[git push]
+把本地的文件更新后传送给云端的git
+
+[git pull]
+把本地的文件从云端传送给本地
+
+remote 云端的含义
+
+用好Commit对我们的工作来说帮助非常的大。

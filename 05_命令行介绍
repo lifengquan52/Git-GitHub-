@@ -1,0 +1,25 @@
+命令行
+Terminal是苹果系统中的命令行工具，在这里，你可以用terminal来对电脑中的任何命令做出一些动作。
+
+[cd]
+change diretcly
+改变工作路径
+
+[pwd] 
+print work diretcly
+显示当前的工作路径
+
+[ls]
+lists
+列出当前工作路径中的所有内容
+
+[clear]
+clear
+清楚当前工作路径中所有的内容，保持原来的状态
+
+[open .]
+open
+打开当前所在的工作路径
+
+
+
