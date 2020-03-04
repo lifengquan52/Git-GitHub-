@@ -9,6 +9,7 @@ Pushing 就像把某些东西推送给某人，而Pulling就像把某些东西�
 
 Pull Request 是什么？
 Pull Request就是当你有多个分支，且其中一个不在主线中的时候，你可以将你的其他分支合并到Master主分支中，最终形成一个完整只带有主分支Master的文件。这些分支和主分支的合并创建情况你可以借助第三方的软件进行查看，也可以直接在GitHub中的Graphs中查看。
+Kkk
 
 
 
